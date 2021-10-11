@@ -1,0 +1,2 @@
+ENTRY_ADR   equ #8000
+

@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "[python]": {
+    },
+    "[z80-macroasm]": {
+        // Skip annoying suggestions for ASM code
+        "editor.snippetSuggestions": "none",
+        "editor.detectIndentation": false,
+        "editor.insertSpaces": false,  
+        "editor.tabSize": 16,
+    
+        // Columns at which to show vertical rulers
+        "editor.rulers": [80]
+    }
+}
